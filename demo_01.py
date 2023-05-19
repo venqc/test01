@@ -1,5 +1,5 @@
 print("Hello world!")
 # Addition of two numbers
-x = 9
-p = 7
-print(x+p)
+q = 9
+y = 7
+print(q+y)
